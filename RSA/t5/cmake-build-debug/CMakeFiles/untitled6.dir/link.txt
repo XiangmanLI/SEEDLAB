@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/untitled6.dir/main.c.o -o untitled6 
